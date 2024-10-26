@@ -1,36 +1,25 @@
-## 👋 Hi, I'm Torikul Islam Naeem
+![Header Image]([https://yourimageurl.com](https://pngtree.com/freebackground/illustration-of-a-3d-render-showcasing-a-concept-of-web-ui-ux-design-development-seo-optimization-and-marketing-for-web-building_13289194.html))
 
-<!--
-**Torikulislam20241/Torikulislam20241** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Hi 👋, I'm Torikul Islam Naeem
+A passionate full-stack web developer from Bangladesh
 
-### 🌱 I'm currently learning
-- Advanced PHP and Node.js for back-end development
-- Flutter for cross-platform mobile development
-- Cloud services like AWS and Azure
+- 🌱 I’m currently learning Advanced PHP and Flutter
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dexdesigner.com)
+- 💬 Ask me about **Web Development, PHP, WordPress**
+- 📫 How to reach me **torikulislam20241@example.com**
 
-### 👨‍💻 I'm currently working on
-- Custom web development projects using PHP and WordPress
-- Building a marketplace platform similar to Bikroy.com
-- UI/UX design for a new startup's mobile app
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikulislam20241/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/torikulislam20241/)
 
-### 🤝 I'm looking to collaborate on
-- Open-source projects related to web development
-- Innovative UX design projects
-- Cloud-based web application development
+### Languages and Tools:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 💬 Ask me about
-- Full Stack Development (PHP, JavaScript, WordPress)
-- Custom web design with Wix and WordPress
-- UI/UX design principles
+### 📊 GitHub Stats
+![Torikul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torikulislam20241&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Torikulislam20241&theme=radical)
 
-### 📫 How to reach me
-- Email: torikulislam20241@example.com
-- LinkedIn: [Torikul Islam Naeem](https://www.linkedin.com/in/torikulislam20241)
-- Portfolio: [Dex Designer](https://www.dexdesigner.com)
-
-### 😄 Pronouns
-He/Him
-
-### ⚡ Fun fact
-I'm a tech enthusiast who enjoys solving complex development challenges. When not coding, I explore the latest design trends.
+### 🏆 Achievements
+- 4+ years of professional web development
+- Built 30+ custom websites and web apps
