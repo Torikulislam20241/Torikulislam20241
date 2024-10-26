@@ -14,6 +14,8 @@ A passionate full-stack web developer from Bangladesh
 ### Languages and Tools:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Mern](![Mern](https://github.com/user-attachments/assets/eccc51f5-790b-4fc8-b717-35b458d9d64e)
+)
 
 ### 📊 GitHub Stats
 ![Torikul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torikulislam20241&show_icons=true&theme=radical)
