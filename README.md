@@ -1,9 +1,13 @@
-![Header Image](https://yourimageurl.com)
+![MasterHead](https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png)
 
-## Hi 👋, I'm Torikul Islam Naeem  
-A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **WordPress**, **Wix**, **PHP**, and **Java**. I focus on creating modern, responsive, and fully functional websites and web applications that enhance user experience and meet clients' business goals.
+<p align="center" style="font-size:40px; font-weight:bold;">
+    Hi , I'm Torikul Islam Naeem
+</p>
 
 ---
+ 
+A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **WordPress**, **Wix**, **PHP**, and **Java**. I create modern, responsive, fully functional websites and web applications that enhance user experience and meet clients' business goals.
+
 
 ### 🌱 I’m Currently Learning  
 - Advanced back-end development with **Node.js**  
@@ -50,15 +54,4 @@ A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **Wo
 
 ### 🔍 Fun Fact  
 I enjoy solving complex coding challenges and constantly enhancing my skills. When I'm not coding, I love exploring the latest technology trends and contributing to the developer community.
-
----
-
-### 🔧 Coding-Related Images  
-<p align="center">
-    <img src="https://yourimageurl1.com" alt="Coding Image 1" width="400" height="250"/>
-    <img src="https://yourimageurl2.com" alt="Coding Image 2" width="400" height="250"/>
-    <img src="https://yourimageurl3.com" alt="Coding Image 3" width="400" height="250"/>
-</p>
-
----
 
