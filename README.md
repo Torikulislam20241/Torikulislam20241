@@ -3,10 +3,9 @@
 ## Hi 👋, I'm Torikul Islam Naeem
 A passionate full-stack web developer from Bangladesh
 
-- 🌱 I’m currently learning Advanced PHP and Flutter
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dexdesigner.com)
-- 💬 Ask me about **Web Development, PHP, WordPress**
-- 📫 How to reach me **torikulislam20241@example.com**
+- 🌱 I’m currently learning Advanced Mer Stack and Flutter
+- 💬 Ask me about **Web Development, Mern, WordPress**
+- 📫 How to reach me **naeemislam0252@gmail.com**
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikulislam20241/)
