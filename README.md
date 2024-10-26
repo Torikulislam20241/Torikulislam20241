@@ -1,9 +1,8 @@
 ![MasterHead](https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png)
 
-<p align="center" style="font-size:40px; font-weight:bold;">
-    Hi , I'm Torikul Islam Naeem
+<p align="center" style="font-size: px; font-weight: bold;">
+    Hi 👋, I'm Torikul Islam Naeem
 </p>
-
 ---
  
 A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **WordPress**, **Wix**, **PHP**, and **Java**. I create modern, responsive, fully functional websites and web applications that enhance user experience and meet clients' business goals.
