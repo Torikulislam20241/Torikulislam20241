@@ -1,26 +1,64 @@
-![Header Image]([https://yourimageurl.com](https://pngtree.com/freebackground/illustration-of-a-3d-render-showcasing-a-concept-of-web-ui-ux-design-development-seo-optimization-and-marketing-for-web-building_13289194.html))
+![Header Image](https://yourimageurl.com)
 
-## Hi 👋, I'm Torikul Islam Naeem
-A passionate full-stack web developer from Bangladesh
+## Hi 👋, I'm Torikul Islam Naeem  
+A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **WordPress**, **Wix**, **PHP**, and **Java**. I focus on creating modern, responsive, and fully functional websites and web applications that enhance user experience and meet clients' business goals.
 
-- 🌱 I’m currently learning Advanced Mer Stack and Flutter
-- 💬 Ask me about **Web Development, Mern, WordPress**
-- 📫 How to reach me **naeemislam0252@gmail.com**
+---
 
-### Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikulislam20241/](https://www.linkedin.com/in/torikul-islam-naeem-a18674231/))
-[![FIVER]([https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/torikulislam20241/](https://www.fiverr.com/torikulislam222?up_rollout=true))
+### 🌱 I’m Currently Learning  
+- Advanced back-end development with **Node.js**  
+- Integrating **cloud services** for scalable web apps  
+- Cross-platform development with **Flutter**  
 
-### Languages and Tools:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Mern](![Mern](https://github.com/user-attachments/assets/eccc51f5-790b-4fc8-b717-35b458d9d64e)
-)
+---
 
-### 📊 GitHub Stats
-![Torikul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torikulislam20241&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Torikulislam20241&theme=radical)
+### 👨‍💻 I'm Currently Working On  
+- Custom e-commerce platforms using the **MERN Stack**  
+- WordPress development for dynamic content management  
+- Modern UI/UX design projects with a focus on mobile-first design  
 
-### 🏆 Achievements
-- 4+ years of professional web development
-- Built 30+ custom websites and web apps
+---
+
+### 🤝 Let’s Collaborate On  
+- **Web development projects** requiring full-stack expertise  
+- **UI/UX design** to enhance user engagement  
+- **Cloud-based solutions** and innovative software products  
+
+---
+
+### 📫 How to Reach Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naeemislam0252@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikul-islam-naeem-a18674231/)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/torikulislam222?up_rollout=true)  
+
+---
+
+### 🛠️ Languages and Tools  
+![MERN](https://img.shields.io/badge/MERN-3C873A?style=flat-square&logo=react&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)  
+![Wix](https://img.shields.io/badge/Wix-000?style=flat-square&logo=wix&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torikulislam20241&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Torikulislam20241&theme=radical)  
+
+---
+
+### 🔍 Fun Fact  
+I enjoy solving complex coding challenges and constantly enhancing my skills. When I'm not coding, I love exploring the latest technology trends and contributing to the developer community.
+
+---
+
+### 🔧 Coding-Related Images  
+<p align="center">
+    <img src="https://yourimageurl1.com" alt="Coding Image 1" width="400" height="250"/>
+    <img src="https://yourimageurl2.com" alt="Coding Image 2" width="400" height="250"/>
+    <img src="https://yourimageurl3.com" alt="Coding Image 3" width="400" height="250"/>
+</p>
+
+---
+
