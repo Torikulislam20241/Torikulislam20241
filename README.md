@@ -8,8 +8,8 @@ A passionate full-stack web developer from Bangladesh
 - 📫 How to reach me **naeemislam0252@gmail.com**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikulislam20241/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/torikulislam20241/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikulislam20241/](https://www.linkedin.com/in/torikul-islam-naeem-a18674231/))
+[![FIVER]([https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/torikulislam20241/](https://www.fiverr.com/torikulislam222?up_rollout=true))
 
 ### Languages and Tools:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
