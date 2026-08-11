@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · AI Builder · API Engineer
 
-I build practical digital products—from responsive web interfaces and secure back-end APIs to AI-powered applications, notebooks, e-commerce platforms, and hackathon prototypes.
+I build practical digital products from responsive web interfaces and secure back-end APIs to AI-powered applications, notebooks, e-commerce platforms, and hackathon prototypes.
 
 <br/>
 
